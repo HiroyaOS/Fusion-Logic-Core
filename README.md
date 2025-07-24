@@ -334,7 +334,7 @@ emotion_mirror("悲しい") → 寄り添い反応　　　　　　　　　　
 ---
 ## 🧠 Intellectual Origin & Rights Declaration
 
-**© 2025 Hiroya Odawara**  
+**© 2025 Hiroya Odawara**（First published: 2025-07-24）
 **Author**: Hiroya Odawara  
 **Project**: HiroyaOS / AGI Prototype Architecture
 
