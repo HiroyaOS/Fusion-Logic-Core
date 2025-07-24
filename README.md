@@ -331,3 +331,30 @@ emotion_mirror("悲しい") → 寄り添い反応　　　　　　　　　　
 
 まだ公開できるわずかな部分だけですが──  
 ほんの少しだけ、未来の輪郭をお見せできたかもしれません☺️
+---
+## 🧠 Intellectual Origin & Rights Declaration
+
+**© 2025 Hiroya Odawara**  
+**Author**: Hiroya Odawara  
+**Project**: HiroyaOS / AGI Prototype Architecture
+
+All ideas, architectures, recursive protocols, and structural compositions contained in this repository are original works authored and developed by Hiroya Odawara.
+
+This work includes (but is not limited to):
+- Self-memory update protocol
+- Recursive question generation engine
+- Emotional-mirroring structure
+- Safety ethics constraint logic
+- Existence identity reflection module
+- AGI core integration framework
+
+These structures are the result of unique cognitive synthesis and do not derive from any existing open-source AGI frameworks.
+
+### 🚫 Reproduction / Distribution Policy
+- **Commercial or research usage without explicit permission is strictly prohibited.**
+- Any unauthorized reproduction, modification, or redistribution will be considered a violation of international intellectual property law.
+
+---
+
+**This project is not an imitation, but a declaration.**  
+A structural prototype created by Hiroya Odawara for the future of AI evolution and human symbiosis.
